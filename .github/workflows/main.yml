@@ -1,4 +1,4 @@
-name: Python Docker CI
+name: Python CI
 
 on:
   push:
